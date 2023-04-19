@@ -1,0 +1,4 @@
+"0","knitr::opts_chunk$set(echo = TRUE)"
+"0","library(cowsay)"
+"2","Error in library(cowsay) : there is no package called ‘cowsay’
+"

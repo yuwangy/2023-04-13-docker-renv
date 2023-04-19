@@ -1,0 +1,3 @@
+1681868365747:knitr::opts_chunk$set(echo = TRUE)
+1681868406941:knitr::opts_chunk$set(echo = TRUE)
+1681868406955:library(cowsay)

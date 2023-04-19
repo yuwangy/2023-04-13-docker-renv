@@ -1,0 +1,28 @@
+{
+    "id": "7FE65F1C",
+    "path": "~/myreport.rmd",
+    "project_path": null,
+    "type": "r_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1681868234806.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "8,0",
+        "scrollLine": "1",
+        "last_setup_crc32": "1aaa999b3e1dad1c"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1681868441,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1681868442183,
+    "read_only": false,
+    "read_only_alternatives": []
+}
